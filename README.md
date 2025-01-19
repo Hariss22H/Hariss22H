@@ -1,3 +1,4 @@
+![logo](https://github.com/Hariss22H/Hariss22H/blob/main/Celebrate%20-%20Canva%20Banner.png)
 <h1 align="center">Hi 👋, I'm SHAIK HARRISS RAZVI</h1>
 <h3 align="center">A Passionate 3rd-year BTech student specializing in Artificial Intelligence and Machine Learning (AIML)</h3>
 
